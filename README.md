@@ -11,7 +11,7 @@ When you do that, you'll be told about your very important ♫*ch-ch-ch-ch-chang
 
 
 ##Disclaimer
-You will need a Mac with the **afplay** command for this hook to work (the man page is dated February 13th, 2007, so any recent Mac with recent software will work).
+You will need a Mac with the **afplay** audio player for this hook to work, which comes with the Mac OS (the man page is dated February 13th, 2007, so any recent Mac with recent software will work).
 
 
 ##License
