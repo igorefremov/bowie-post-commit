@@ -3,7 +3,7 @@
 ##What even is this?
 You made some changes in a project, so you go ahead and commit them, right?
 
-But *what if* you could make the process of committing so much more rewarding?
+But *what if* you could make the process of committing **so much** more rewarding?
 
 Fear not - this post-commit git hook solves that problem! And lucky for you, all you have to do is copy **post-commit** into the .git/hooks/ directory of your project.
 
