@@ -12,3 +12,7 @@ When you do that, you'll be told about your very important ♫*ch-ch-ch-ch-chang
 
 ##Disclaimer
 You will need a Mac with the **afplay** command for this hook to work (the man page is dated February 13th, 2007, so any recent Mac with recent software will work).
+
+
+##License
+This project is licensed under the MIT license (more details in LICENSE), so you can do whatever you want with it.
