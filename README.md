@@ -1,6 +1,6 @@
-#bowie-post-commit
+# bowie-post-commit
 
-##What even is this?
+## What even is this?
 You made some changes in a project, so you go ahead and commit them, right?
 
 But *what if* you could make the process of committing **so much** more rewarding?
@@ -10,9 +10,9 @@ Fear not - this post-commit git hook solves that problem! And lucky for you, all
 When you do that, you'll be told about your very important ♫*ch-ch-ch-ch-changes*♫ every time you commit!
 
 
-##Disclaimer
+## Disclaimer
 You will need a Mac with the **afplay** audio player for this hook to work, which comes with the Mac OS (the man page is dated February 13th, 2007, so any recent Mac with recent software will work).
 
 
-##License
+## License
 This project is licensed under the MIT license (more details in LICENSE), so you can do whatever you want with it.
